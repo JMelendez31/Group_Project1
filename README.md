@@ -7,7 +7,7 @@ Group Members: Jennifer Melendez, Clara Richardson, Christian Suarez, Danielle D
 URL: https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated
 
 
-Summary of Dataset: This Dataset is retrieved from Kaggle. Data contains life expectancy, health, immunization, and economic and demographic information about 179 countries from 2000-2015 years. The adjusted dataset has 21 variables and 2,864 rows.
+Summary of Dataset: This Dataset is retrieved from Kaggle. Data contains life expectancy, health, immunization, and economic and demographic information about 179 countries from 2000-2015 years. The adjusted dataset has variables and rows.
 
 Research Questions
 1. What are the key determinants?
