@@ -2,4 +2,3 @@ Our test file.
 
 Hi, these are Clara's changes. 
 
-hi clara
