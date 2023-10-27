@@ -11,38 +11,38 @@ Summary of Dataset: This Dataset is retrieved from Kaggle. Data contains life ex
 
 Research Questions
 1. What are the key determinants?
-a. Developed vs. Undeveloped
-b. GDP Population
-c. Vaccinations
-d. BMI comparison by age
-e. Mortality Rates by age
-f. Comparing results by Region, Time, and Age
-g. Education vs GDP per Capita
-h. Education vs. Region
-i. Life Expectancy vs. Region
-j. Life Expectancy throughout 2000-2015
-k. Etc.
+	a. Developed vs. Undeveloped
+	b. GDP Population
+	c. Vaccinations
+	d. BMI comparison by age
+	e. Mortality Rates by age
+	f. Comparing results by Region, Time, and Age
+	g. Education vs GDP per Capita
+	h. Education vs. Region
+	i. Life Expectancy vs. Region
+	j. Life Expectancy throughout 2000-2015
+	k. Etc.
 2. How the results changed over time? Comparing from 2015 to 2000 (the dataset)
  
 
 Breakdown of Tasks 
 1. General Data Cleansing
-a. Duplicate Check
-b. Errors Check
-c. Organizing the Data
-d. Creating a Data Dictionary to keep track of all new information and definitions.
+	a. Duplicate Check
+	b. Errors Check
+	c. Organizing the Data
+	d. Creating a Data Dictionary to keep track of all new information 	and definitions.
 2. Model Building/Data Analysis
-a. Looking at our sample Data
-b. Checking out the Statistical Summary
-c. Analyzing the key determinants from our Research Questions
-d. Creating Graphs to visualize
-e. Creating Regressions to quantify relationships.
-f. Summarize our Findings.
+	a. Looking at our sample Data
+	b. Checking out the Statistical Summary
+	c. Analyzing the key determinants from our Research Questions
+	d. Creating Graphs to visualize
+	e. Creating Regressions to quantify relationships.
+	f. Summarize our Findings.
 3. Presentation Building
-a. Build a PowerPoint Deck with our findings.
-b. Explain the dataset and analysis process.
-i. Explain what we found wrong with the data.
-c. Draw conclusions and explain the implications of our findings.
+	a. Build a PowerPoint Deck with our findings.
+	b. Explain the dataset and analysis process.
+	c. Explain what we found wrong with the data.
+	d. Draw conclusions and explain the implications of our findings.
 
 
 
