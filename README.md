@@ -3,7 +3,7 @@
 ## Data Description
 Through Kaggle.com, we accessed a World Health Organization dataset containing information on 179 countries from 2000 to 2015. Available variables incuded BMI, vaccination rates of different diseases, years of education, economy status (a dummy variable indicating the country as developed or developing), alcohol consumption, population, GDP per capita, and infant and adult mortality rates. The table below shows the summary statistics for the variables the group was most interested in. 
 
-![image](https://github.com/JMelendez31/Group_Project1/assets/142682830/86ab74ae-e586-419f-99af-8f1f3bf2f909)
+![image](https://github.com/JMelendez31/Group_Project1/assets/142682830/73aeee89-4292-48da-b3a7-46cbdd1b55e4)
 
 Following the summary statistics, our group identified the variables that we wanted to explore in relation to a country's average life expectancy. Using the economic status of the country, we decided to exploit the two groups to find those variables that have the strongest connection to life expectancy. 
 
